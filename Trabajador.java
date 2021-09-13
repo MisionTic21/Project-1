@@ -2,9 +2,10 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 public class Trabajador {
-
-    //Inserte acá los atributos
     
+    // Comentario 1 para probar Git
+    
+    //Inserte acá los atributos
     private String nombre;
     private String CC;
     private double salarioPorHora;

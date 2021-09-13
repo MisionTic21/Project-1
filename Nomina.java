@@ -2,7 +2,8 @@
 import java.util.ArrayList;
 public class Nomina{
     
-   
+//    Comentario 2 para probar Git
+
     //Inserte acá los atributos
     private ArrayList<Trabajador> trabajadores = new ArrayList<>();
 
