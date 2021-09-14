@@ -7,6 +7,8 @@ public class Nomina{
 // Comentario 6 para probar Git
 // Comentario 8 probando GitHub
 // Comentario 9 
+// Comentario 10
+
     //Inserte acá los atributos
     private ArrayList<Trabajador> trabajadores = new ArrayList<>();
 
