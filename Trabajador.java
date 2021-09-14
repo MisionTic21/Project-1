@@ -6,6 +6,7 @@ public class Trabajador {
     // Comentario 1 para probar Git
     //  COmentario 3 para probar Git
 //  Comentario 5 para probar Git
+// Comentario 7 probando GitHub
 
     //Inserte acá los atributos
     private String nombre;
