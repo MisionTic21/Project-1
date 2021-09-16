@@ -8,6 +8,7 @@ public class Trabajador {
 //  Comentario 5 para probar Git
 // Comentario 7 probando GitHub
 // Comentario 11 
+// Comentario 12
 
     //Inserte acá los atributos
     private String nombre;
